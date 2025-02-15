@@ -14,16 +14,16 @@ This simple Java program prints three welcome messages:
 1. Ensure you have Java installed on your system
 2. Compile the program:
 javac Lab101Weber.java
-Copy3. Run the compiled program:
+Run the compiled program:
 java Lab101Weber
-Copy
+
 ## Output
 
 When you run the program, you'll see:
 Wecome To Java!
 Wecome To Computer Science!
 Programming is Fun!
-Copy
+
 ## Technical Details
 
 - Programming Language: Java
